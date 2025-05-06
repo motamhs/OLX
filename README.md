@@ -1,2 +1,2 @@
 # OLX
-replica do site do OLX
+Réplica do site do OLX
